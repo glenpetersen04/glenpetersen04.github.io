@@ -69,6 +69,14 @@ body {
   background-color: #fff;
 }
 
+.project-image {
+  width: 400px;
+}
+
+.projects-margin {
+  margin-bottom: 80px;
+}
+
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important;
 }
